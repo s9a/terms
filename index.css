@@ -3,7 +3,7 @@
 }
 
 [href] {
-  background: magenta;
+  background: hotpink;
   border-style: solid;
   border-width: thick;
   border-color: magenta;
@@ -31,7 +31,7 @@
 html {
   font-size: calc(1em + 1vmax);
   font-family: sans-serif;
-  background: silver;
+  background: salmon;
   color: #111;
 }
 
