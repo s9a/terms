@@ -1,7 +1,5 @@
-# templates
+# terms
 
-## [`zero`](../../../zero) is for creating opensource
-
-## [`interweb`](../../../interweb) is for creating webpages
-
-## [`interwebz`](../../../interwebz) `=`  [`interweb`](../../../interweb) `+` [`zero`](../../../zero)
+* [<b>v11y</b>](../../../v11y)
+* [<b>c11y</b>](../../../c11y)
+* [<b>i14y</b>](../../../i14y)
